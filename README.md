@@ -4,7 +4,7 @@ An end-to-end data analytics project using **SQL and Microsoft Excel** to analyz
 
 ## 📌 Project Overview
 
-The goal of this project is to turn retail sales data into actionable business insights.
+The goal of this project is to turn retail sales data into useful business insights.
 
 The analysis covers:
 
@@ -18,7 +18,7 @@ The analysis covers:
 ## 🛠️ Tools Used
 
 - **SQL** – Data analysis and business queries
-- **Microsoft Excel** – Interactive dashboard and visualization
+- **Microsoft Excel** – Interactive dashboards and visualization
 - **Power Query** – Data preparation
 - **PivotTables & PivotCharts** – Analysis and reporting
 - **Data Model & DAX** – Dynamic KPIs
@@ -26,7 +26,7 @@ The analysis covers:
 
 ## 📊 SQL Analysis
 
-The SQL analysis focuses on answering key business questions such as:
+The SQL analysis focuses on questions such as:
 
 - What are the total revenue and profit?
 - Which countries generate the most revenue?
@@ -35,7 +35,7 @@ The SQL analysis focuses on answering key business questions such as:
 - Which stores generate the most revenue and profit?
 - How does revenue compare with profit?
 
-The analysis uses SQL techniques including:
+SQL techniques used include:
 
 - Aggregations
 - Joins
@@ -48,7 +48,7 @@ The analysis uses SQL techniques including:
 
 ## 📈 Excel Dashboard
 
-The Excel dashboard is divided into four sections.
+The Excel dashboard is divided into four sections:
 
 ### Sales Analysis
 - Revenue, cost and profit KPIs
@@ -86,9 +86,7 @@ The Excel dashboard is divided into four sections.
 
 ## 🎛️ Interactive Dashboard
 
-The dashboards include **Year slicers** that dynamically update the KPIs, charts, and analysis.
-
-This allows users to compare business performance across different years.
+The dashboards include **Year slicers** that dynamically update KPIs, charts, and analysis, allowing performance to be compared across different years.
 
 ## 📂 Project Structure
 
